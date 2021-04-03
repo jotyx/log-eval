@@ -1,0 +1,14 @@
+{
+  "name": "log-eval",
+  "version": "1.0.0",
+  "description": "evaluate log files",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "adam",
+  "license": "ISC",
+  "engines": {
+    "node": ">= 8.0.0"
+  }
+}
